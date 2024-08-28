@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2b4e8129b02d487f-1" value="&amp;nbsp;Process" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=default;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="60" width="1349" height="1414" as="geometry" />
+          <mxGeometry x="-10" y="60" width="1420" height="1414" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-2" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Online&lt;/b&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;fontStyle=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fillStyle=auto;rounded=0;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="20" width="1349" height="964" as="geometry">
+          <mxGeometry y="20" width="1420" height="964" as="geometry">
             <mxRectangle y="20" width="1349" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -222,7 +222,7 @@
           <mxGeometry x="328.52" y="290" width="47.48" height="42" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Production&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="984" width="1349" height="280" as="geometry">
+          <mxGeometry y="984" width="1420" height="280" as="geometry">
             <mxRectangle y="240" width="1350" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -239,7 +239,7 @@
           <mxGeometry x="840" y="57" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-3" value="Others" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="1264" width="1349" height="150" as="geometry">
+          <mxGeometry y="1264" width="1420" height="150" as="geometry">
             <mxRectangle y="240" width="1350" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
