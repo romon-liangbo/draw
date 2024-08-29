@@ -275,13 +275,13 @@
           <mxGeometry x="783" y="116.75" width="77" height="38.25" as="geometry" />
         </mxCell>
         <mxCell id="Jwhx34OBtB9swdhGf9xD-86" value="BH待派单" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
-          <mxGeometry x="185" y="161.75" width="77" height="38.25" as="geometry" />
+          <mxGeometry x="185" y="115.75" width="77" height="38.25" as="geometry" />
         </mxCell>
         <mxCell id="Jwhx34OBtB9swdhGf9xD-172" value="BH (暂停 、取消)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
-          <mxGeometry x="598" y="57" width="112" height="33" as="geometry" />
+          <mxGeometry x="594" y="57" width="122" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Jwhx34OBtB9swdhGf9xD-202" value="BH （取消操作)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
-          <mxGeometry x="840" y="57" width="110" height="30" as="geometry" />
+          <mxGeometry x="855" y="58" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-3" value="Online DB" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="1204" width="1420" height="150" as="geometry">
